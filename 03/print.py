@@ -4,7 +4,7 @@
 def main():
     word = [1, 2, 3, 4]
     print(3, "hello", True, sep="---", end="\theh\n")
-    print(word[-1:])
+    print(word[-1])
 
 
 if __name__ == "__main__":

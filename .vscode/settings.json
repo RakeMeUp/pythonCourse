@@ -1,0 +1,6 @@
+{
+    "background.customImages": [
+        "https://m.media-amazon.com/images/M/MV5BZmU5ZDE5NTItN2I1YS00ZmFmLTk3YTgtNzQwOGNkYzFjOWRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg"
+    ],
+    "python.formatting.provider": "black"
+}
